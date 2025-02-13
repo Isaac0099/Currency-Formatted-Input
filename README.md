@@ -1,6 +1,8 @@
 # Currency-Formatted-Input
 A simple TS React input component that adds the $ symbol and commas for separating numbers into more readable format (i.e. 1000000 displays as $1,000,000) While still passing a number.
 
+Probably to0 small to be posting here but it gave me just enough of a head ache that I thought I'd put out there incase it can save some else an hour or so
+
 Can be used to show normal number with comma separation, just set showCurrencySymbol={false} when you use it
 
 
